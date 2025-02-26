@@ -1,0 +1,11 @@
+streamlit
+azure-ai-formrecognizer==3.3.3
+azure-ai-documentintelligence
+python-dotenv
+openai
+PyPDF2 
+python-docx
+langchain_groq
+langchain
+nltk 
+tiktoken
